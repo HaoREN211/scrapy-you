@@ -1,0 +1,74 @@
+2014-12-25 16:32:25+0800 [scrapy] INFO: Scrapy 0.24.4 started (bot: moko)
+2014-12-25 16:32:25+0800 [scrapy] INFO: Optional features available: ssl, http11, boto, django
+2014-12-25 16:32:25+0800 [scrapy] INFO: Overridden settings: {'NEWSPIDER_MODULE': 'moko.spiders', 'FEED_URI': 'items.json', 'LOG_LEVEL': 'INFO', 'SPIDER_MODULES': ['moko.spiders'], 'BOT_NAME': 'moko', 'COOKIES_ENABLED': False, 'FEED_FORMAT': 'json', 'LOG_FILE': 'moko.log'}
+2014-12-25 16:32:25+0800 [scrapy] INFO: Enabled extensions: FeedExporter, LogStats, TelnetConsole, CloseSpider, WebService, CoreStats, SpiderState
+2014-12-25 16:32:25+0800 [scrapy] INFO: Enabled downloader middlewares: HttpAuthMiddleware, DownloadTimeoutMiddleware, UserAgentMiddleware, CustomHttpProxyMiddleware, CustomUserAgentMiddleware, RetryMiddleware, DefaultHeadersMiddleware, MetaRefreshMiddleware, HttpCompressionMiddleware, RedirectMiddleware, ChunkedTransferMiddleware, DownloaderStats
+2014-12-25 16:32:25+0800 [scrapy] INFO: Enabled spider middlewares: HttpErrorMiddleware, OffsiteMiddleware, RefererMiddleware, UrlLengthMiddleware, DepthMiddleware
+2014-12-25 16:32:25+0800 [scrapy] INFO: Enabled item pipelines: ImagesPipeline
+2014-12-25 16:32:25+0800 [moko] INFO: Spider opened
+2014-12-25 16:32:25+0800 [moko] INFO: Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
+2014-12-25 16:32:30+0800 [moko] WARNING: File (unknown-error): Error downloading image from <GET http://img1.moko.cc/users/0/16/4813/logo/img1_des_4363218.jpg> referred in <None>: Connection was refused by other side: 111: Connection refused.
+2014-12-25 16:32:30+0800 [moko] WARNING: File (unknown-error): Error downloading image from <GET http://img2.moko.cc/users/0/16/4813/post/e6/img2_cover_9870338.jpg> referred in <None>: Connection was refused by other side: 111: Connection refused.
+2014-12-25 16:32:30+0800 [moko] WARNING: File (unknown-error): Error downloading image from <GET http://img1.moko.cc/users/0/31/9402/logo/img1_mini_6883518.jpg> referred in <None>: Connection was refused by other side: 111: Connection refused.
+2014-12-25 16:32:30+0800 [moko] WARNING: File (unknown-error): Error downloading image from <GET http://html.moko.cc/images/newnav/code_03.png> referred in <None>: Connection was refused by other side: 111: Connection refused.
+2014-12-25 16:32:31+0800 [moko] INFO: Closing spider (finished)
+2014-12-25 16:32:31+0800 [moko] INFO: Stored json feed (1 items) in: items.json
+2014-12-25 16:32:31+0800 [moko] INFO: Dumping Scrapy stats:
+	{'downloader/exception_count': 12,
+	 'downloader/exception_type_count/twisted.internet.error.ConnectionRefusedError': 12,
+	 'downloader/request_bytes': 9025,
+	 'downloader/request_count': 30,
+	 'downloader/request_method_count/GET': 30,
+	 'downloader/response_bytes': 226839,
+	 'downloader/response_count': 18,
+	 'downloader/response_status_count/200': 18,
+	 'file_count': 17,
+	 'file_status_count/downloaded': 17,
+	 'finish_reason': 'finished',
+	 'finish_time': datetime.datetime(2014, 12, 25, 8, 32, 31, 921883),
+	 'item_scraped_count': 1,
+	 'log_count/INFO': 8,
+	 'log_count/WARNING': 4,
+	 'response_received_count': 18,
+	 'scheduler/dequeued': 1,
+	 'scheduler/dequeued/memory': 1,
+	 'scheduler/enqueued': 1,
+	 'scheduler/enqueued/memory': 1,
+	 'start_time': datetime.datetime(2014, 12, 25, 8, 32, 25, 349759)}
+2014-12-25 16:32:31+0800 [moko] INFO: Spider closed (finished)
+2014-12-25 16:34:29+0800 [scrapy] INFO: Scrapy 0.24.4 started (bot: moko)
+2014-12-25 16:34:29+0800 [scrapy] INFO: Optional features available: ssl, http11, boto, django
+2014-12-25 16:34:29+0800 [scrapy] INFO: Overridden settings: {'NEWSPIDER_MODULE': 'moko.spiders', 'FEED_URI': 'items.json', 'LOG_LEVEL': 'INFO', 'SPIDER_MODULES': ['moko.spiders'], 'BOT_NAME': 'moko', 'COOKIES_ENABLED': False, 'FEED_FORMAT': 'json', 'LOG_FILE': 'moko.log'}
+2014-12-25 16:34:29+0800 [scrapy] INFO: Enabled extensions: FeedExporter, LogStats, TelnetConsole, CloseSpider, WebService, CoreStats, SpiderState
+2014-12-25 16:34:29+0800 [scrapy] INFO: Enabled downloader middlewares: HttpAuthMiddleware, DownloadTimeoutMiddleware, UserAgentMiddleware, CustomHttpProxyMiddleware, CustomUserAgentMiddleware, RetryMiddleware, DefaultHeadersMiddleware, MetaRefreshMiddleware, HttpCompressionMiddleware, RedirectMiddleware, ChunkedTransferMiddleware, DownloaderStats
+2014-12-25 16:34:29+0800 [scrapy] INFO: Enabled spider middlewares: HttpErrorMiddleware, OffsiteMiddleware, RefererMiddleware, UrlLengthMiddleware, DepthMiddleware
+2014-12-25 16:34:29+0800 [scrapy] INFO: Enabled item pipelines: ImagesPipeline
+2014-12-25 16:34:29+0800 [moko] INFO: Spider opened
+2014-12-25 16:34:29+0800 [moko] INFO: Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
+2014-12-25 16:34:33+0800 [moko] WARNING: File (unknown-error): Error downloading image from <GET http://img2.moko.cc/users/0/16/4813/post/5e/img2_src_9870339.jpg> referred in <None>: Connection was refused by other side: 111: Connection refused.
+2014-12-25 16:34:33+0800 [moko] WARNING: File (unknown-error): Error downloading image from <GET http://img2.moko.cc/users/0/16/4813/post/98/img2_src_9870342.jpg> referred in <None>: Connection was refused by other side: 111: Connection refused.
+2014-12-25 16:34:38+0800 [moko] INFO: Closing spider (finished)
+2014-12-25 16:34:38+0800 [moko] INFO: Stored json feed (1 items) in: items.json
+2014-12-25 16:34:38+0800 [moko] INFO: Dumping Scrapy stats:
+	{'downloader/exception_count': 6,
+	 'downloader/exception_type_count/twisted.internet.error.ConnectionRefusedError': 6,
+	 'downloader/request_bytes': 3603,
+	 'downloader/request_count': 11,
+	 'downloader/request_method_count/GET': 11,
+	 'downloader/response_bytes': 1097654,
+	 'downloader/response_count': 5,
+	 'downloader/response_status_count/200': 5,
+	 'file_count': 4,
+	 'file_status_count/downloaded': 4,
+	 'finish_reason': 'finished',
+	 'finish_time': datetime.datetime(2014, 12, 25, 8, 34, 38, 590953),
+	 'item_scraped_count': 1,
+	 'log_count/INFO': 8,
+	 'log_count/WARNING': 2,
+	 'response_received_count': 5,
+	 'scheduler/dequeued': 1,
+	 'scheduler/dequeued/memory': 1,
+	 'scheduler/enqueued': 1,
+	 'scheduler/enqueued/memory': 1,
+	 'start_time': datetime.datetime(2014, 12, 25, 8, 34, 29, 195159)}
+2014-12-25 16:34:38+0800 [moko] INFO: Spider closed (finished)
