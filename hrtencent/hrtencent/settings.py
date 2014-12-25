@@ -38,3 +38,4 @@ MONGODB_PORT = 27017
 MONGODB_URI = 'mongodb://localhost:27017'
 MONGODB_DB = "company"
 MONGODB_COLLECTION = "tencent"
+COOKIES_ENABLED = False
