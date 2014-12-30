@@ -1,0 +1,40 @@
+2014-12-30 21:46:00+0800 [scrapy] INFO: Scrapy 0.24.4 started (bot: lagou)
+2014-12-30 21:46:00+0800 [scrapy] INFO: Optional features available: ssl, http11, boto, django
+2014-12-30 21:46:00+0800 [scrapy] INFO: Overridden settings: {'NEWSPIDER_MODULE': 'lagou.spiders', 'LOG_LEVEL': 'INFO', 'SPIDER_MODULES': ['lagou.spiders'], 'BOT_NAME': 'lagou', 'COOKIES_ENABLED': False, 'LOG_FILE': 'lagou.log'}
+2014-12-30 21:46:00+0800 [scrapy] INFO: Enabled extensions: LogStats, TelnetConsole, CloseSpider, WebService, CoreStats, SpiderState
+2014-12-30 21:46:00+0800 [scrapy] INFO: Enabled downloader middlewares: HttpAuthMiddleware, DownloadTimeoutMiddleware, UserAgentMiddleware, CustomHttpProxyMiddleware, CustomUserAgentMiddleware, RetryMiddleware, DefaultHeadersMiddleware, MetaRefreshMiddleware, HttpCompressionMiddleware, RedirectMiddleware, ChunkedTransferMiddleware, DownloaderStats
+2014-12-30 21:46:00+0800 [scrapy] INFO: Enabled spider middlewares: HttpErrorMiddleware, OffsiteMiddleware, RefererMiddleware, UrlLengthMiddleware, DepthMiddleware
+2014-12-30 21:46:00+0800 [scrapy] INFO: Enabled item pipelines: JsonExportPipeline
+2014-12-30 21:46:00+0800 [lagou] INFO: Spider opened
+2014-12-30 21:46:00+0800 [lagou] INFO: Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
+2014-12-30 21:49:19+0800 [scrapy] INFO: Scrapy 0.24.4 started (bot: lagou)
+2014-12-30 21:49:19+0800 [scrapy] INFO: Optional features available: ssl, http11, boto, django
+2014-12-30 21:49:19+0800 [scrapy] INFO: Overridden settings: {'NEWSPIDER_MODULE': 'lagou.spiders', 'LOG_LEVEL': 'INFO', 'SPIDER_MODULES': ['lagou.spiders'], 'BOT_NAME': 'lagou', 'COOKIES_ENABLED': False, 'LOG_FILE': 'lagou.log'}
+2014-12-30 21:49:19+0800 [scrapy] INFO: Enabled extensions: LogStats, TelnetConsole, CloseSpider, WebService, CoreStats, SpiderState
+2014-12-30 21:49:19+0800 [scrapy] INFO: Enabled downloader middlewares: HttpAuthMiddleware, DownloadTimeoutMiddleware, UserAgentMiddleware, CustomHttpProxyMiddleware, CustomUserAgentMiddleware, RetryMiddleware, DefaultHeadersMiddleware, MetaRefreshMiddleware, HttpCompressionMiddleware, RedirectMiddleware, ChunkedTransferMiddleware, DownloaderStats
+2014-12-30 21:49:19+0800 [scrapy] INFO: Enabled spider middlewares: HttpErrorMiddleware, OffsiteMiddleware, RefererMiddleware, UrlLengthMiddleware, DepthMiddleware
+2014-12-30 21:49:19+0800 [scrapy] INFO: Enabled item pipelines: JsonExportPipeline
+2014-12-30 21:49:19+0800 [lagou] INFO: Spider opened
+2014-12-30 21:49:19+0800 [lagou] INFO: Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
+2014-12-30 21:50:19+0800 [lagou] INFO: Crawled 2541 pages (at 2541 pages/min), scraped 4931 items (at 4931 items/min)
+2014-12-30 21:51:19+0800 [lagou] INFO: Crawled 5181 pages (at 2640 pages/min), scraped 9811 items (at 4880 items/min)
+2014-12-30 21:52:19+0800 [lagou] INFO: Crawled 7799 pages (at 2618 pages/min), scraped 16067 items (at 6256 items/min)
+2014-12-30 21:53:19+0800 [lagou] INFO: Crawled 10580 pages (at 2781 pages/min), scraped 23697 items (at 7630 items/min)
+2014-12-30 21:54:19+0800 [lagou] INFO: Crawled 13312 pages (at 2732 pages/min), scraped 29776 items (at 6079 items/min)
+2014-12-30 21:55:19+0800 [lagou] INFO: Crawled 16430 pages (at 3118 pages/min), scraped 36909 items (at 7133 items/min)
+2014-12-30 21:56:19+0800 [lagou] INFO: Crawled 19534 pages (at 3104 pages/min), scraped 49162 items (at 12253 items/min)
+2014-12-30 21:57:19+0800 [lagou] INFO: Crawled 22389 pages (at 2855 pages/min), scraped 57825 items (at 8663 items/min)
+2014-12-30 21:58:19+0800 [lagou] INFO: Crawled 25418 pages (at 3029 pages/min), scraped 66846 items (at 9021 items/min)
+2014-12-30 21:59:19+0800 [lagou] INFO: Crawled 28387 pages (at 2969 pages/min), scraped 73778 items (at 6932 items/min)
+2014-12-30 22:00:19+0800 [lagou] INFO: Crawled 31179 pages (at 2792 pages/min), scraped 80697 items (at 6919 items/min)
+2014-12-30 22:01:19+0800 [lagou] INFO: Crawled 34005 pages (at 2826 pages/min), scraped 87144 items (at 6447 items/min)
+2014-12-30 22:02:19+0800 [lagou] INFO: Crawled 36986 pages (at 2981 pages/min), scraped 94424 items (at 7280 items/min)
+2014-12-30 22:03:01+0800 [scrapy] INFO: Scrapy 0.24.4 started (bot: lagou)
+2014-12-30 22:03:01+0800 [scrapy] INFO: Optional features available: ssl, http11, boto, django
+2014-12-30 22:03:01+0800 [scrapy] INFO: Overridden settings: {'NEWSPIDER_MODULE': 'lagou.spiders', 'LOG_LEVEL': 'INFO', 'SPIDER_MODULES': ['lagou.spiders'], 'BOT_NAME': 'lagou', 'COOKIES_ENABLED': False, 'LOG_FILE': 'lagou.log'}
+2014-12-30 22:03:01+0800 [scrapy] INFO: Enabled extensions: LogStats, TelnetConsole, CloseSpider, WebService, CoreStats, SpiderState
+2014-12-30 22:03:02+0800 [scrapy] INFO: Enabled downloader middlewares: HttpAuthMiddleware, DownloadTimeoutMiddleware, UserAgentMiddleware, CustomHttpProxyMiddleware, CustomUserAgentMiddleware, RetryMiddleware, DefaultHeadersMiddleware, MetaRefreshMiddleware, HttpCompressionMiddleware, RedirectMiddleware, ChunkedTransferMiddleware, DownloaderStats
+2014-12-30 22:03:02+0800 [scrapy] INFO: Enabled spider middlewares: HttpErrorMiddleware, OffsiteMiddleware, RefererMiddleware, UrlLengthMiddleware, DepthMiddleware
+2014-12-30 22:03:02+0800 [scrapy] INFO: Enabled item pipelines: JsonExportPipeline
+2014-12-30 22:03:02+0800 [lagou] INFO: Spider opened
+2014-12-30 22:03:02+0800 [lagou] INFO: Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
